@@ -1,0 +1,12 @@
+.center {
+    position: absolute;
+    display: inline-block;
+    border-style: double;
+    padding: 10px;
+    margin: 20px;
+    left: 35%;
+}
+
+.input {
+    margin: 5px;
+}

@@ -1,0 +1,19 @@
+div {
+    width: fit-content;
+    background-color: grey;
+    position: absolute;
+    left: 20%;
+    top: 25%;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}

@@ -1,0 +1,11 @@
+.comments-container {
+    font-family: Arial, sans-serif;
+}
+
+.comment {
+    margin-bottom: 10px;
+}
+
+.replies {
+    margin-left: 20px; /* Adjust indentation for replies */
+}

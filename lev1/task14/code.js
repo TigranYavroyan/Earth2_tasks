@@ -1,5 +1,5 @@
 var inputField = document.getElementById("input");
-let arr
+let arr;
 
 inputField.addEventListener("input", function() {
     arr = inputField.value;
